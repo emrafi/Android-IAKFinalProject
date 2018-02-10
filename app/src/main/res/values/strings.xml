@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieKu</string>
+    <string name="action_setting">Pengaturan</string>
+    <string name="name_movie">Judul Film</string>
+    <string name="movie_details">Detail Film</string>
+    <string name="plot">Synopsis</string>
+    <string name="rating">Rating Film</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="pref_most_popular">Ter Populer</string>
+    <string name="pref_higest_rated">Rating Tertinggi</string>
+</resources>
